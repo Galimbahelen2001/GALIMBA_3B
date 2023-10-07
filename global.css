@@ -1,0 +1,22 @@
+*{
+  h1{
+    font-size: 20px;
+    font-style:italic;
+  }
+}
+
+body {
+  background: url(https://www.icegif.com/wp-content/uploads/nyan-cat-icegif-14.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+  color: rgb(15, 15, 15);
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
